@@ -1,7 +1,7 @@
 import mo lang 'yung sql file sa php my admin
 
 in order na gumana 'yung export xml and hindi makaerror
-    xampp -> apache -> config -> php.ini -> may notes lalabas, ctrl f mo -> ;extension=zip -> tangallin mo lang 'yung ; tehn ctrl s 
+    xampp -> apache -> config -> php.ini -> may notes lalabas, ctrl f mo -> ;extension=zip -> tangallin mo lang 'yung ; then ctrl s 
 
 
 incase hindi gumana ang sql file:
